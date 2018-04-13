@@ -3,6 +3,10 @@
         "title": "C++",
         "key": "cpp"
     },
+    "cs": {
+        "title": "C#",
+        "key": "cs"
+    },
     "css": {
         "title": "CSS",
         "key": "css"
