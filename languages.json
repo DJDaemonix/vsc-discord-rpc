@@ -1,4 +1,8 @@
 {
+    "cpp": {
+        "title": "C++",
+        "key": "cpp"
+    },
     "css": {
         "title": "CSS",
         "key": "css"
