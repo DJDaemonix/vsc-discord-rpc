@@ -1,34 +1,34 @@
 {
-    "js": {
-        "title": "JavaScript",
-        "key": "js"
-    },
-    "html": {
-        "title": "HTML",
-        "key": "html"
-    },
     "css": {
         "title": "CSS",
         "key": "css"
-    },
-    "json": {
-        "title": "JSON",
-        "key": "json"
     },
     "ejs": {
         "title": "EJS",
         "key": "html"
     },
-    "ruby": {
-        "title": "Ruby",
-        "key": "ruby"
+    "html": {
+        "title": "HTML",
+        "key": "html"
+    },
+    "js": {
+        "title": "JavaScript",
+        "key": "js"
+    },
+    "json": {
+        "title": "JSON",
+        "key": "json"
+    },
+    "php": {
+        "title": "php",
+        "key": "php"
     },
     "python": {
         "title": "Python",
         "key": "python"
     },
-    "php": {
-        "title": "php",
-        "key": "php"
+    "ruby": {
+        "title": "Ruby",
+        "key": "ruby"
     }
 }
