@@ -1,34 +1,46 @@
 {
-    "js": {
-        "title": "JavaScript",
-        "key": "js"
+    "cpp": {
+        "title": "C++",
+        "key": "cpp"
     },
-    "html": {
-        "title": "HTML",
-        "key": "html"
+    "cs": {
+        "title": "C#",
+        "key": "cs"
     },
     "css": {
         "title": "CSS",
         "key": "css"
     },
-    "json": {
-        "title": "JSON",
-        "key": "json"
-    },
     "ejs": {
         "title": "EJS",
         "key": "html"
     },
-    "ruby": {
-        "title": "Ruby",
-        "key": "ruby"
+    "html": {
+        "title": "HTML",
+        "key": "html"
+    },
+    "js": {
+        "title": "JavaScript",
+        "key": "js"
+    },
+    "json": {
+        "title": "JSON",
+        "key": "json"
+    },
+    "lua": {
+        "title": "Lua",
+        "key": "lua"
+    },
+    "php": {
+        "title": "php",
+        "key": "php"
     },
     "python": {
         "title": "Python",
         "key": "python"
     },
-    "php": {
-        "title": "php",
-        "key": "php"
+    "ruby": {
+        "title": "Ruby",
+        "key": "ruby"
     }
 }
